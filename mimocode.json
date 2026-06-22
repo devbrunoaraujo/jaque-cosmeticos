@@ -1,0 +1,4 @@
+{
+  "$schema": "https://mimo.xiaomi.com//config.json",
+  "instructions": ["backend/AGENTS.md", "frontend/AGENTS.md", "docs/domain.md"]
+}
